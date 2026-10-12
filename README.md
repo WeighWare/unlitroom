@@ -24,4 +24,4 @@ Change those files on a branch and open a pull request. After the pull request i
 
 ## Agents
 
-Read `AGENTS.md` and `CLAUDE.md` before changing this repo when those files are present. Shared agent rules are opted in from WeighWare/agent-rules. Do not merge your own pull request.
+When `AGENTS.md` and `CLAUDE.md` are on the branch, read them before changing this repo. Those files carry the shared agent rules (stamp v2026.10.10) from WeighWare/agent-rules pull request #1, which is not merged. Do not merge your own pull request.

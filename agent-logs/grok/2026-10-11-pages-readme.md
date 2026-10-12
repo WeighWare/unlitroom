@@ -23,7 +23,7 @@ Replace the title-only README so an agent can see that WeighWare/unlitroom is a 
 
 ## Changed
 
-- Replaced `README.md`.
+- Replaced `README.md`. The Agents section points at `AGENTS.md` and `CLAUDE.md` only when those files are on the branch, and names WeighWare/agent-rules pull request #1 as the unmerged source.
 - Added this record.
 
 ## Chose not to do and why
